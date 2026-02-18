@@ -1,1 +1,16 @@
-{}
+{
+	"app": {
+		"openFilters": "Open Filters",
+		"selectedFiltersDebugTitle": "Selected Filters (Debug):",
+		"noFiltersSelected": "No filters selected"
+	},
+	"modal": {
+		"title": "Filter",
+		"loading": "Loading...",
+		"apply": "Apply",
+		"clearAllParameters": "Clear all parameters",
+		"confirmTitle": "Do you want to apply new filter",
+		"useOldFilter": "Use old filter",
+		"applyNewFilter": "Apply new filter"
+	}
+}
